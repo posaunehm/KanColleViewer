@@ -49,6 +49,13 @@ C# + WPF で開発しています。開発環境は Windows 8.1 Pro + Visual Stu
 
 #### ライセンス
 * MIT License
-
 MIT ライセンスの下で公開する、オープンソース / フリーソフトウェアです。
 
+
+#### CIサーバからの取得
+
+##### masterブランチ（安定版）
+[![Build status](https://ci.appveyor.com/api/projects/status/9drikxmgkiwrraoo)](https://ci.appveyor.com/project/HiroshiMaekawa/kancolleviewer)  [KanColleViewer_Stable - AppVeyor](https://ci.appveyor.com/project/HiroshiMaekawa/kancolleviewer/history)
+
+##### developブランチ（実験版）
+[![Build status](https://ci.appveyor.com/api/projects/status/hn3owgusen864fc4)](https://ci.appveyor.com/project/HiroshiMaekawa/kancolleviewer-793)  [KanColleViewer_Develop - AppVeyor](https://ci.appveyor.com/project/HiroshiMaekawa/kancolleviewer-793/history)
